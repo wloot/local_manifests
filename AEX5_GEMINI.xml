@@ -6,6 +6,6 @@
   <project path="vendor/xiaomi" name="wloot/GEMINI_vendor_xiaomi" remote="github" revision="8.1.x" />
   <project path="kernel/xiaomi/msm8996" name="AospExtended-Devices/kernel_xiaomi_msm8996" remote="github" revision="8.1.x" />
    
- <!--Packages-->  
-  <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" revision="lineage-15.1" />
+ <!--Packages>  
+  <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" revision="lineage-15.1" /-->
   </manifest>
