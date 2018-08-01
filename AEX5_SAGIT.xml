@@ -2,9 +2,9 @@
 <manifest>
  <!--DeviceRepos-->
   <project path="device/xiaomi/sagit" name="wloot/device_xiaomi_gemini" remote="github" revision="8.1.x" />
-  <project path="device/xiaomi/msm8998-common" name="wloot/device_xiaomi_msm8996-common" remote="github" revision="8.1.x" />
+  <project path="device/xiaomi/msm8998-common" name="wloot/device_xiaomi_msm8998-common" remote="github" revision="8.1.x" />
   <project path="vendor/xiaomi" name="wloot/SAGIT_vendor_xiaomi" remote="github" revision="8.1.x" />
-  <project path="kernel/xiaomi/msm8998" name="wight554/chiron" remote="github" revision="8.1.x" />
+  <project path="kernel/xiaomi/msm8998" name="wight554/chiron" remote="github" revision="o2" />
   <project path="prebuilts/clang/host/linux-x86/7.0-DragonTC" name="wloot/prebuilts_clang_host_linux-x86_7.0-DragonTC" remote="github" revision="master" />
    
  <!--Packages>  
