@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remove-project name="platform/external/tinycompress" />
+  <remove-project name="LineageOS/android_external_tinycompress" />
   <project path="external/tinycompress" name="LiquidRemix/android_external_tinycompress" remote="github" revision="pie" />  
   <project path="device/xiaomi/sagit" name="wloot/device_xiaomi_sagit" remote="github" revision="crd-p" />
   <project path="device/xiaomi/msm8998-common" name="wloot/device_xiaomi_msm8998-common" remote="github" revision="pie-re" />
