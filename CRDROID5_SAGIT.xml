@@ -3,7 +3,6 @@
   <project path="device/xiaomi/sagit" name="wloot/device_xiaomi_sagit" remote="github" revision="crd-p" />
   <project path="device/xiaomi/msm8998-common" name="wloot/device_xiaomi_msm8998-common" remote="github" revision="pie-re" />
   <project path="vendor/xiaomi" name="wloot/vendor_xiaomi" remote="github" revision="pie" />
-  <project path="kernel/xiaomi/msm8998" name="wight554/chiron" remote="github" revision="pie" />
+  <project path="kernel/xiaomi/msm8998" name="wloot/LoverOriented" remote="github" revision="lo-2.x" />
   <project path="vendor/goodies" name="wloot/vendor_goodies" remote="github" revision="pie" />
-  <project path="prebuilts/clang/host/linux-x86/clang-master" name="wloot/clang" clone-depth="1" remote="github" revision="master" />    
-   </manifest>
+</manifest>
